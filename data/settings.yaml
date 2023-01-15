@@ -1,0 +1,75 @@
+comments:
+  consecutive_moves: |-
+    What's going on here? You can't move twice in a row. It's unfair if you play yourself, silly. Go make some friends to play with you (it's like networking, but with humans), or just wait your turn.
+
+    *I'm gonna go ahead and close this issue now.*
+
+  game_over: |-
+    Huh. That ended quickly. Looks like the game is over, {outcome}! I would say congrats to the winners, but most of you probably played both sides in all honesty.
+
+    Speaking of which, thanks to {players} for participating! In total, the {num_players} of you made {num_moves} moves. Hope you're proud of yourselves.
+
+  invalid_board: "Huh. Something bad happened. Not totally sure what, think the board might be invalid somehow. But I'm pretty sure it's not your fault. Or maybe it is, who knows. I'm gonna go ahead and close this issue now. I suppose you could try again later, may or may not work."
+
+  invalid_move: |-
+    *{author} pla-*
+
+    Wait a minute. {move} is invalid.
+
+    I'm betting either you're trying to cheat, or you're just not very good at chess.
+
+    Or maybe someone just happened to make another move before you. Or maybe you didn't follow directions and changed the contents of the issue, don't do that.
+
+    *Whatever happened, I'm gonna go ahead and close this issue now. Try again later once you come up with a better move.*
+
+  invalid_new_game: |-
+    *{author} gets mad and flips the chess board.*
+
+    Just kidding, this is the internet. No flipping allowed. You can start a new game once this one's over if you like, but no sooner. I don't care if you're mad at the way the current game's going, rules are rules.
+
+  successful_move: |-
+    *{author} plays {move}.*
+
+    Not necessarily what I would've done, but you made your choice and can live with it. No going back now!
+
+    Thanks for playing, I'll go ahead and close this issue and update the game board.
+
+  successful_new_game: |-
+    *{author} starts a new game.*
+
+    Have fun, I'll go ahead and close this issue and update the game board.
+
+  unknown_command: |-
+    *{author} plays something but I don't understand cause they didn't follow instructions.*
+
+    You're not supposed to modify the issue title. It breaks stuff. Follow directions next time, I'm gonna go ahead and close this issue now. Try again later once you come up with a better move.
+
+issues:
+  link: "https://github.com/{repo}/issues/new?{params}"
+  move:
+    body: "Don't touch the title. Just submit the issue."
+    title: "Chess: Move {source} to {dest}"
+  new_game:
+    body: "Don't touch the title. Just submit the issue."
+    title: "Chess: Start new game"
+
+markers:
+  board:
+    begin: "<!-- BEGIN CHESS BOARD -->\n"
+    end: "<!-- END CHESS BOARD -->\n"
+  last_moves:
+    begin: "<!-- BEGIN LAST MOVES -->\n"
+    end: "<!-- END LAST MOVES -->\n"
+  moves:
+    begin: "<!-- BEGIN MOVES LIST -->\n"
+    end: "<!-- END MOVES LIST -->\n"
+  top_moves:
+    begin: "<!-- BEGIN TOP MOVES -->\n"
+    end: "<!-- END TOP MOVES -->\n"
+  turn:
+    begin: "<!-- BEGIN TURN -->"
+    end: "<!-- END TURN -->"
+
+misc:
+  max_last_moves: 50
+  max_top_moves: 10
