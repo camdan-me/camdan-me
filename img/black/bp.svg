@@ -1,81 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="480"
-   height="480"
-   id="svg3125"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="bp.svg">
-  <title
-     id="title3827">Black Pawn</title>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="942"
-     inkscape:window-height="480"
-     id="namedview3825"
-     showgrid="false"
-     inkscape:zoom="0.49166667"
-     inkscape:cx="-43.728814"
-     inkscape:cy="240"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg3125" />
-  <defs
-     id="defs3127" />
-  <metadata
-     id="metadata3130">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Black Pawn</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
-        <dc:date>6.1.2013</dc:date>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>James Kilfinger+alfons z!</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:source>http://openfontlibrary.org/assets/downloads/chess/dd244e4b50bb954610bc0b2372ce2e18/chess.zip</dc:source>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(0,-572.36218)"
-     id="layer1">
-    <path
-       d="m 238.375,92.9375 c -39.94314,0 -72.3125,32.40061 -72.3125,72.34375 0,39.94314 32.36936,72.34375 72.3125,72.34375 39.94314,0 72.34375,-32.40061 72.34375,-72.34375 0,-39.94314 -32.40061,-72.34375 -72.34375,-72.34375 z m 0.5625,175.4375 c -30.22725,0 -76.65344,46.97731 -108.5,82.0625 C 171.46018,338.56251 195.75572,331 238.9375,331 c 43.18177,0 67.98584,7.01422 108.46875,19.96875 C 314.48015,315.34379 274.02269,268.375 238.9375,268.375 z M 238.375,386.59375 C 160.64781,386.59375 92.642,415.73868 50,460 l 380,0 C 387.358,415.73868 316.10219,386.59375 238.375,386.59375 z"
-       transform="translate(0,572.36218)"
-       id="text3135"
-       style="font-size:596.59088135px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:chess;-inkscape-font-specification:chess Bold" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480">
+   <path
+      d="M238.531 112.281c-40.258 0-73.156 32.867-73.156 73.125 0 40.259 32.898 73.156 73.156 73.156 40.259 0 73.156-32.897 73.156-73.156 0-40.258-32.897-73.125-73.156-73.125zm0 14.719a58.22 58.22 0 0 1 58.406 58.406c0 32.403-26.003 58.438-58.406 58.438a58.273 58.273 0 0 1-58.437-58.438c0-32.403 26.034-58.406 58.437-58.406zm0 143.844c-32.894 0-66.288 35.35-115.875 84.937-2.455 2.455-2.955 6.867-.5 9.813 2.455 2.945 5.907 3.441 9.344 1.969 33.385-16.693 70.7-25.032 107.031-25.032s73.647 8.339 107.031 25.031c3.437 1.473 6.858.977 9.313-1.968 2.455-2.946 1.986-7.358-.469-9.813-49.586-49.586-82.98-84.937-115.875-84.937zm0 14.719c19.638 0 39.764 16.214 79.531 55-26.02-8.347-53.02-12.75-79.53-12.75-26.512 0-53.043 4.403-79.063 12.75 39.276-38.786 59.424-55 79.062-55zm0 92.812c-72.661 0-136.491 27.488-176.75 69.219L50 459.875h380l-11.781-12.281c-40.259-42.222-107.026-69.219-179.688-69.219zm0 14.719c61.37 0 117.822 20.61 155.625 52.031H85.844c37.312-31.421 91.318-52.031 152.687-52.031z"
+      style="font-size:490.95608521px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#324055;fill-opacity:1;stroke:none;font-family:chess;-inkscape-font-specification:chess Bold" />
+   <path
+      style="color:#000;fill:#eb5951;fill-opacity:1;fill-rule:nonzero;stroke:#eb5951;stroke-width:2.54237294;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      d="M86.923 444.66c1.843-1.712 11.17-8.63 16.246-12.05 69.017-46.498 168.972-52.164 248.39-14.081 8.283 3.972 18.657 9.838 25.606 14.48 5.093 3.4 16.088 11.518 16.088 11.876 0 .124-69.033.225-153.406.225-88.729 0-153.204-.19-152.924-.45zm78.038-109.013c9.562-9.691 27.441-25.833 36.349-32.815 21.322-16.715 35.586-20.423 52.5-13.65 12.398 4.964 30.842 19.42 55.66 43.625 4.363 4.256 6.555 6.712 5.847 6.553-.622-.139-4.907-1.298-9.521-2.575-15.399-4.263-32.637-7.237-49.322-8.508-10.23-.78-35.386-.339-45 .788-14.192 1.665-30.555 4.935-43.578 8.71-3.273.948-6.127 1.725-6.343 1.725-.216 0 1.318-1.734 3.408-3.853zm62.275-93.283c-8.998-1.892-16.3-5.11-23.133-10.195-22.722-16.912-30.02-46.975-17.579-72.415 6.98-14.273 19.177-24.795 34.357-29.64 6.849-2.186 12.1-2.836 20.28-2.508 14.679.587 27.565 6.14 37.935 16.344 19.863 19.548 23.222 49.646 8.15 73.034-8.596 13.339-23.019 22.91-38.62 25.631-6.141 1.071-15.632.96-21.39-.25h0z" />
 </svg>

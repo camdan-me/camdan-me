@@ -1,79 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="480"
-   height="480"
-   id="svg2985"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="br.svg">
-  <title
-     id="title3932">Black Rook</title>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="942"
-     inkscape:window-height="480"
-     id="namedview3930"
-     showgrid="false"
-     inkscape:zoom="0.49166667"
-     inkscape:cx="-350.84746"
-     inkscape:cy="240"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2985" />
-  <defs
-     id="defs2987" />
-  <metadata
-     id="metadata2990">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Black Rook</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
-        <dc:date>6.1.2013</dc:date>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>James Kilfinger+alfons z!</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:source>http://openfontlibrary.org/assets/downloads/chess/dd244e4b50bb954610bc0b2372ce2e18/chess.zip</dc:source>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1">
-    <path
-       d="m 238.375,69.21875 c -32.38633,0 -36.14492,49.09375 -68.53125,49.09375 -18.89203,0 -27.01139,-25.34375 -48.0625,-25.34375 -10.79544,0 -18.875,10.24433 -18.875,20.5 0,8.63635 2.69607,50.73015 43.71875,89.59375 26.44884,-8.63635 57.74435,-14.03125 91.75,-14.03125 34.00565,0 65.33241,5.3949 91.78125,14.03125 41.56246,-44.80109 43.71875,-84.19603 43.71875,-89.59375 0,-10.25567 -8.11081,-20.5 -18.90625,-20.5 -21.05111,0 -29.13922,25.34375 -48.03125,25.34375 -32.38633,0 -36.17617,-49.09375 -68.5625,-49.09375 z m -6.15625,166.25 c -30.60335,0.25302 -59.12254,2.42046 -82.90625,6.46875 0,23.74998 -4.85229,58.30119 -22.125,114.4375 C 162.81246,339.64206 199.5114,331 238.375,331 c 41.02268,0 83.6847,9.70172 121.46875,28.59375 -26.44884,-62.61357 -29.71023,-99.31252 -30.25,-117.125 -25.90906,-4.31818 -57.2131,-7 -91.21875,-7 -2.05788,0 -4.11603,-0.0169 -6.15625,0 z m 6.15625,151.125 C 160.64781,386.59375 92.642001,415.73868 50,460 l 380,0 C 387.358,415.73868 316.10219,386.59375 238.375,386.59375 z"
-       id="text3384"
-       style="font-size:539.77270508px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:chess;-inkscape-font-specification:chess Bold" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480">
+   <path
+      d="M238.531 89.813c-33.876 0-38.287 44.687-62.344 44.687-13.255 0-21.134-23.094-43.718-23.094-14.729 0-24.531 12.776-24.531 26.031 0 8.838 2.442 49.594 41.718 86.907l3.438 2.937 3.937-1.469c23.075-7.855 51.552-12.28 81.5-12.28 29.949 0 58.425 4.425 81.5 12.28l4.406 1.47 2.938-3.438c39.276-42.222 41.75-80.024 41.75-86.406 0-13.256-9.834-26.032-24.563-26.032-22.583 0-30.431 23.094-43.687 23.094-24.057 0-28.468-44.688-62.344-44.688zm0 14.718c24.057 0 28.468 44.688 62.344 44.688 21.111 0 28.468-23.063 43.688-23.063 5.891 0 9.843 6.863 9.843 11.281 0 3.437-.99 35.353-34.375 73.157-24.057-7.365-51.551-11.781-81.5-11.781-29.948 0-57.443 4.416-81.5 11.78-32.403-32.402-34.375-66.773-34.375-73.155 0-4.42 3.921-11.282 9.813-11.282 15.22 0 22.607 23.063 43.719 23.063 33.875 0 38.286-44.688 62.343-44.688zm0 136.5c-30.439 0-58.434 1.948-82 5.875l-6.375 1v6.375c0 20.62-3.914 51.557-19.625 102.125l-4.937 15.719 14.75-6.875c31.42-14.729 63.82-22.594 98.187-22.594 36.331 0 73.647 8.339 107.031 25.031l18.157 9.344-7.844-18.656c-23.566-56.46-26.509-88.383-27-104.094v-5.906l-5.906-.969c-24.057-3.927-53.017-6.375-84.438-6.375zm0 14.719c27.985 0 54.001 1.97 76.094 5.406.982 16.693 4.914 44.175 20.625 85.906-30.93-12.764-64.316-19.125-96.719-19.125-30.93 0-60.377 5.865-89.344 17.157 10.802-38.786 15.197-64.8 15.688-84.438 21.602-2.945 46.654-4.906 73.656-4.906zm0 122.75c-72.661 0-136.491 27.488-176.75 69.219L50 460h380l-11.781-12.281C377.96 405.497 311.193 378.5 238.53 378.5zm0 14.719c61.37 0 117.822 20.61 155.625 52.031H85.844c37.312-31.421 91.318-52.031 152.687-52.031z"
+      style="font-size:490.95608521px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#324055;fill-opacity:1;stroke:none;font-family:chess;-inkscape-font-specification:chess Bold" />
+   <path
+      style="color:#000;fill:#eb5951;fill-opacity:1;fill-rule:nonzero;stroke:#eb5951;stroke-width:3.59545827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      d="M87.615 444.3c28.682-22.563 58.572-36.619 95.085-44.712 66.29-14.694 141.189-1.658 194.674 33.882 3.758 2.497 8.912 6.162 11.456 8.145l4.624 3.606-153.476-.022c-120.778-.018-153.24-.21-152.363-.9zm232.232-103.125c-53.438-18.08-107.79-18.082-160.894-.006-4.6 1.566-8.485 2.723-8.636 2.573-.15-.15 1.203-6.05 3.008-13.108 6.396-25.023 10.277-46.52 11.61-64.315l.408-5.457 11.275-1.206c6.202-.663 15.482-1.597 20.624-2.075 12.992-1.208 68.686-1.18 83.055.043 16.504 1.405 33.306 3.65 33.846 4.523.26.422.691 3.652.958 7.18 1.3 17.225 7.954 44.79 16.89 69.968 1.249 3.518 2.182 6.447 2.074 6.51-.108.063-6.506-2.02-14.218-4.63h0zM152.219 204.641c-16.204-17.499-28.757-45.809-28.902-65.177-.06-7.996 3.5-12.584 9.76-12.584 4.506 0 9.121 2.632 17.598 10.037 11.51 10.056 16.297 12.354 25.713 12.343 14.29-.016 21.966-5.305 38.223-26.335 11.017-14.253 15.729-17.762 23.85-17.762 8.38 0 13.486 3.868 25.029 18.96 4.296 5.618 9.27 11.71 11.05 13.538 7.597 7.793 16.174 11.583 26.251 11.597 9.318.014 14.207-2.39 26.235-12.895 3.764-3.288 8.37-6.766 10.235-7.73 9.038-4.671 16.628.302 16.471 10.793-.263 17.54-13.02 45.685-29.885 65.934l-3.976 4.774-5.944-1.732c-8.494-2.474-28.695-6.448-40.461-7.96-14.452-1.856-55.325-1.854-69.752.004-11.963 1.54-32.147 5.503-40.463 7.944l-5.946 1.745-5.086-5.493h0z" />
 </svg>

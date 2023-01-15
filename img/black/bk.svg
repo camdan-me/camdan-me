@@ -1,79 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="480"
-   height="480"
-   id="svg2985"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="bk.svg">
-  <title
-     id="title3722">Black King</title>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="942"
-     inkscape:window-height="480"
-     id="namedview3720"
-     showgrid="false"
-     inkscape:zoom="0.49166667"
-     inkscape:cx="240"
-     inkscape:cy="240"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2985" />
-  <defs
-     id="defs2987" />
-  <metadata
-     id="metadata2990">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Black King</dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
-        <dc:source>http://openfontlibrary.org/assets/downloads/chess/dd244e4b50bb954610bc0b2372ce2e18/chess.zip</dc:source>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>James Kilfinger+alfons z!</dc:title>
-          </cc:Agent>
-        </dc:creator>
-        <dc:date>6.1.2013</dc:date>
-      </cc:Work>
-      <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1">
-    <path
-       d="m 238.375,51.96875 c -17.27057,0 -31.3125,14.041929 -31.3125,31.3125 0,14.032339 9.73457,26.44081 22.6875,30.21875 l 0,36.71875 C 181.71623,145.90111 146.6165,95.6875 101.28125,95.6875 c -27.524972,0 -68,20.53278 -68,78.28125 0,43.17643 24.284262,104.14898 93.90625,182.40625 C 162.80805,339.64413 199.51622,331 238.375,331 c 41.01761,0 83.65813,9.73531 121.4375,28.625 60.9867,-103.08372 77.15625,-148.97908 77.15625,-186.21875 0,-48.57348 -31.2857,-77.15625 -66.90625,-77.15625 -43.71613,0 -77.17064,49.64265 -124.125,54.5 l 0,-37.25 c 13.49263,-3.23823 23.75,-15.646706 23.75,-30.21875 0,-17.270571 -14.04193,-31.3125 -31.3125,-31.3125 z M 166.59375,172.875 c 22.12792,0 43.71875,20.5085 43.71875,65.84375 0,45.87495 -23.74965,62.59375 -43.71875,62.59375 -29.68379,0 -44.25,-33.46143 -44.25,-65.84375 0,-35.62055 17.80444,-62.59375 44.25,-62.59375 z m 146.78125,0 c 22.12792,0 43.71875,20.5085 43.71875,65.84375 0,45.87495 -23.74965,62.59375 -43.71875,62.59375 -29.68379,0 -44.25,-33.46143 -44.25,-65.84375 0,-35.62055 17.80444,-62.59375 44.25,-62.59375 z m -75,213.71875 C 160.65743,386.59375 92.636721,415.74416 50,460 l 379.96875,0 C 387.33203,415.74416 316.09257,386.59375 238.375,386.59375 z"
-       id="text3353"
-       style="font-size:539.70587158px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:chess;-inkscape-font-specification:chess Bold" />
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480">
+   <path
+      d="M238.469 74.094c-19.644 0-35.844 16.2-35.844 35.844 0 14.24 8.348 26.544 20.625 32.437V162c-37.322-8.348-68.25-48.125-109.5-48.125-29.465 0-69.25 22.12-69.25 78.594 0 42.233 23.566 99.177 87.406 170.875l3.438 3.937 4.906-1.969c31.43-14.732 63.843-22.593 98.219-22.593 36.34 0 73.669 8.365 107.062 25.062l6.375 3.438 3.438-5.906c55.492-93.797 71.219-137.004 71.219-173.344 0-48.126-31.942-77.594-68.282-77.594-39.777 0-69.222 39.286-105.562 48.125v-19.656c12.768-5.402 21.594-18.174 21.594-32.906 0-19.644-16.201-35.844-35.844-35.844zm0 14.75c11.786 0 21.125 9.308 21.125 21.094 0 13.75-12.295 21.624-21.625 21.624-8.84 0-20.625-7.383-20.625-21.625 0-11.785 9.339-21.093 21.125-21.093zM113.75 128.625c40.76 0 72.164 50.063 124.219 50.063 50.581 0 80.044-49.594 120.312-49.594 28.483 0 53.531 22.606 53.531 62.875 0 32.411-15.2 73.654-65.78 159.594C312.146 335.848 274.808 328 238.468 328c-34.867 0-67.267 7.352-99.188 21.594-60.402-68.752-80.06-121.276-80.06-157.125 0-47.635 32.923-63.844 54.531-63.844zm59.406 55.469c-28.483 0-47.625 28.003-47.625 64.344 0 37.322 18.16 67.28 47.625 67.28 22.59 0 47.156-19.163 47.156-64.343 0-44.688-22.11-67.281-47.156-67.281zm133.563 0c-28.483 0-47.625 28.003-47.625 64.344 0 37.322 18.16 67.28 47.625 67.28 22.59 0 47.156-19.163 47.156-64.343 0-44.688-22.111-67.281-47.156-67.281zm-133.563 14.75c15.224 0 32.406 14.227 32.406 52.531 0 38.795-19.638 49.594-32.406 49.594-20.134 0-32.906-24.049-32.906-52.531 0-27.992 13.263-49.594 32.906-49.594zm133.563 0c15.223 0 32.437 14.227 32.437 52.531 0 38.795-19.67 49.594-32.437 49.594-20.135 0-32.906-24.049-32.906-52.531 0-27.992 13.262-49.594 32.906-49.594zm-68.25 179.719c-72.68 0-136.513 27.508-176.781 69.25l-11.782 12.28H430l-11.781-12.28c-40.269-42.234-107.07-69.25-179.75-69.25zm0 14.75c61.385 0 117.874 20.633 155.687 52.062H85.75c37.322-31.43 91.333-52.063 152.719-52.063z"
+      style="font-size:491.08279419px;font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;fill:#324055;fill-opacity:1;stroke:none;font-family:chess;-inkscape-font-specification:chess Bold" />
+   <path
+      style="color:#000;fill:#eb5951;fill-opacity:1;fill-rule:nonzero;stroke:#eb5951;stroke-width:3.59545827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      d="M87.689 444.485c0-.166 2.993-2.538 6.651-5.27 32.317-24.141 71.051-38.804 116.673-44.169 10.385-1.22 45.057-1.236 55.01-.024 49.41 6.016 91.325 22.017 123.21 47.034l3.48 2.73H240.2c-83.882 0-152.512-.136-152.512-.301zm250.603-96.639c-18.485-8.174-43.62-14.857-69.033-18.354-13.117-1.805-47.93-1.822-60.56-.03-12.7 1.801-25.472 4.45-35.589 7.382-8.694 2.518-26.39 8.85-30.195 10.803-1.068.548-2.4.997-2.958.997-1.098 0-13.812-14.912-23.606-27.685-29.928-39.036-48.082-74.762-54.678-107.603-1.362-6.781-1.633-10.372-1.594-21.115.043-11.607.243-13.686 1.947-20.134 6.808-25.773 27.21-42.786 51.309-42.786 14.527 0 25.77 4.297 48.06 18.37 22.099 13.952 26.338 16.465 34.517 20.464 14.361 7.02 24.904 9.878 38.831 10.527 20.208.942 37.014-4.881 63.64-22.05 23.245-14.989 26.098-16.714 33.44-20.22 9.97-4.764 16.849-6.493 26.244-6.599 8.867-.099 13.372.86 21.213 4.517 11.103 5.178 18.599 12.502 24.511 23.95 4.62 8.943 6.805 17.944 7.287 30.006 1.011 25.322-7.29 53.036-28.753 96-12.284 24.59-35.21 65.793-36.853 66.233-.39.104-3.62-1.099-7.18-2.673zM183.328 314.69c28.914-7.007 43.664-44.151 34.774-87.573-2.516-12.294-8.006-22.86-16.07-30.934-8.523-8.531-17.375-12.211-29.375-12.211-20.778 0-37.591 15.34-44.373 40.485-5.17 19.166-3.505 43.76 4.163 61.495 9.92 22.947 29.393 33.945 50.88 28.738h0zm135.681-.656c17.436-5.385 29.628-21.572 33.741-44.794 1.527-8.62 1.538-27.194.021-36.4-3.586-21.773-13.812-38.013-28.293-44.935-9.686-4.63-22.38-5.21-32.25-1.475-17.216 6.516-29.458 25.358-32.741 50.395-.526 4.014-.681 10.296-.408 16.54.807 18.471 5.1 32.358 13.795 44.62 10.81 15.246 28.647 21.45 46.135 16.05h0z" />
+   <path
+      style="color:#000;fill:#eb5951;fill-opacity:1;fill-rule:nonzero;stroke:#eb5951;stroke-width:3.59545827;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      d="M234.489 130.667c-15.573-2.872-22.102-23.328-11.084-34.726 10.025-10.372 27.305-7.805 33.654 5 2.194 4.426 2 13.928-.379 18.588-3.947 7.729-13.816 12.682-22.191 11.138z" />
 </svg>
