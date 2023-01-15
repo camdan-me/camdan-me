@@ -1,6 +1,8 @@
 comments:
   consecutive_moves: |-
-    What's going on here? You can't move twice in a row. It's unfair if you play yourself, silly. Go make some friends to play with you (it's like networking, but with humans), or just wait your turn.
+    *{author} pla-*
+
+    Hold on. What's going on here? I've seen you before, you can't move twice in a row. It's unfair if you play yourself, silly. Go make some friends to play with you (it's like networking, but with humans), or just wait your turn.
 
     *I'm gonna go ahead and close this issue now.*
 
@@ -9,7 +11,7 @@ comments:
 
     Speaking of which, thanks to {players} for participating! In total, the {num_players} of you made {num_moves} moves. Hope you're proud of yourselves.
 
-  invalid_board: "Huh. Something bad happened. Not totally sure what, think the board might be invalid somehow. But I'm pretty sure it's not your fault. Or maybe it is, who knows. I'm gonna go ahead and close this issue now. I suppose you could try again later, may or may not work."
+  invalid_board: "Whoops. Something bad happened. Not totally sure what, think the board might be invalid somehow. But I'm pretty sure it's not your fault. Or maybe it is, who knows. I'm gonna go ahead and close this issue now. I suppose you could try again later, may or may not work."
 
   invalid_move: |-
     *{author} pla-*
