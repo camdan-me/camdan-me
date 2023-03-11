@@ -8,7 +8,7 @@
 I'm a multitalented student who likes coding, storytelling, and music with a real knack for problem solving. Check me out across the internet!
 
 # Chess
-**Ever wanted to play an open chess tournament with random strangers across the internet? Well, today is your lucky day! It's currently <!-- BEGIN TURN -->blue<!-- END TURN -->'s turn. Scroll down to play!**
+**Ever wanted to play an open chess tournament with random strangers across the internet? Well, today is your lucky day! It's currently <!-- BEGIN TURN -->red<!-- END TURN -->'s turn. Scroll down to play!**
 
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
@@ -20,19 +20,26 @@ I'm a multitalented student who likes coding, storytelling, and music with a rea
 | **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/bq.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
 | **3** | <img src="img/white/wp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
 | **2** | <img src="img/white/wp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wp.svg" width=50px> | <img src="img/white/wp.svg" width=50px> | <img src="img/white/wp.svg" width=50px> | **2** |
-| **1** | <img src="img/white/wr.svg" width=50px> | <img src="img/white/wn.svg" width=50px> | <img src="img/white/wb.svg" width=50px> | <img src="img/white/wq.svg" width=50px> | <img src="img/white/wk.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wn.svg" width=50px> | <img src="img/white/wr.svg" width=50px> | **1** |
+| **1** | <img src="img/white/wr.svg" width=50px> | <img src="img/white/wn.svg" width=50px> | <img src="img/white/wb.svg" width=50px> | <img src="img/white/wq.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wk.svg" width=50px> | <img src="img/white/wn.svg" width=50px> | <img src="img/white/wr.svg" width=50px> | **1** |
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
 ## Instructions
 **Choose a move from the table below. To make a move, click a link and then submit the issue without changing anything!**
 <!-- BEGIN MOVES LIST -->
-**CHECK!** Choose your move wisely!
 |  FROM  | TO |
 | :----: | :---------------------- |
-| **D1** | [E2](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+D1+to+E2) |
-| **E1** | [F1](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E1+to+F1) |
-| **G1** | [E2](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+G1+to+E2) |
+| **A7** | [A5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+A7+to+A5), [A6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+A7+to+A6) |
+| **B7** | [B5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+B7+to+B5), [B6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+B7+to+B6) |
+| **B8** | [A6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+B8+to+A6), [C6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+B8+to+C6) |
+| **C7** | [C5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+C7+to+C5), [C6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+C7+to+C6) |
+| **D7** | [D5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+D7+to+D5), [D6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+D7+to+D6) |
+| **E4** | [B1](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+B1), [C2](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+C2), [C4](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+C4), [C6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+C6), [D3](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+D3), [D4](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+D4), [D5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+D5), [E1](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+E1), [E2](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+E2), [E3](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+E3), [F3](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+F3), [F4](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+F4), [F5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+F5), [G2](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+G2), [G4](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+G4), [G6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+G6), [H4](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E4+to+H4) |
+| **E8** | [D8](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E8+to+D8), [E7](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E8+to+E7), [F8](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E8+to+F8), [G8](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+E8+to+G8) |
+| **F7** | [F5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+F7+to+F5), [F6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+F7+to+F6) |
+| **G7** | [G5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+G7+to+G5), [G6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+G7+to+G6) |
+| **H7** | [H5](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+H7+to+H5), [H6](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+H7+to+H6) |
+| **H8** | [F8](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+H8+to+F8), [G8](https://github.com/camdan-me/camdan-me/issues/new?body=Don%27t+touch+the+title.+Just+submit+the+issue.&title=Chess%3A+Move+H8+to+G8) |
 <!-- END MOVES LIST -->
 
 ## Fun Stats
@@ -42,6 +49,7 @@ I'm a multitalented student who likes coding, storytelling, and music with a rea
 
 | Move | Author |
 | :--: | :----- |
+| `E1` to `F1` | [ @camdan-me](https://github.com/camdan-me) |
 | `H4` to `E4` | [ @leonardos4enz](https://github.com/leonardos4enz) |
 | `D3` to `E4` | [ @camdan-me](https://github.com/camdan-me) |
 | `D8` to `H4` | [ @berkaybarisalgun](https://github.com/berkaybarisalgun) |
@@ -65,7 +73,7 @@ I'm a multitalented student who likes coding, storytelling, and music with a rea
 
 | Total moves |  User  |
 | :---------: | :----- |
-| 5 | [@camdan-me](https://github.com/camdan-me) |
+| 6 | [@camdan-me](https://github.com/camdan-me) |
 | 1 | [@l3gacyb3ta](https://github.com/l3gacyb3ta) |
 | 1 | [@reesericci](https://github.com/reesericci) |
 | 1 | [@bremea](https://github.com/bremea) |
