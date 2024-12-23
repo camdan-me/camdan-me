@@ -114,7 +114,3 @@ I'm an entertainment professional based out of Denver who specializes in lightin
 
 
 This game runs on a modified version of [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)! Go check out the original project.
-
----
-
-<img src="https://metrics.lecoq.io/camdan-me" align="center" style="width: 100%" alt="Camdan's GitHub Stats" />
