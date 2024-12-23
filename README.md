@@ -1,11 +1,9 @@
-<img src="https://img.camdan.me/r/banner.png" align="center" style="width: 100%" /><br /><br />
-<img src="https://github-readme-stats.vercel.app/api?username=camdan-me&count_private=true&show_icons=true&locale=en&theme=transparent&bg_color=324055&title_color=ffffff&text_color=ffffff&icon_color=5ab4c7&hide_border=true" align="center" style="width: 49%" alt="Camdan's Streak"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=camdan-me&hide_border=true&background=324055&currStreakNum=FFFFFF&sideNums=5AB4C7&ring=FFFFFF&fire=EB5951&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&stroke=FFFFFF)](https://git.io/streak-stats" align="center" style="width: 49%" alt="Camdan's Streak" />
+<img src="https://cdn.camdan.me/logos/c/banner.png" align="center" style="width: 100%" /><br />
 
 # About Me
 > **Reach out: [Website](https://camdan.me) | [YouTube](https://youtube.com/@camdan-me) | [Discord](https://discord.com/users/564859369951461406) | [Email](mailto:hello@camdan.me)**
 
-I'm a multitalented student who likes coding, storytelling, and music with a real knack for problem solving. Check me out across the internet!
+I'm an entertainment professional based out of Denver who specializes in lighting design and live video production, but sometimes I make software too. Some recent projects include [my website](https://www.camdan.me) and [Fidgetable](https://www.camdan.me). Check them out!
 
 # Chess
 **Ever wanted to play an open chess tournament with random strangers across the internet? Well, today is your lucky day! It's currently <!-- BEGIN TURN -->red<!-- END TURN -->'s turn. Scroll down to play!**
